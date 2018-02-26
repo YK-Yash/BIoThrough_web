@@ -1,0 +1,223 @@
+[
+    {
+        "plant":"Aracenut" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Arhar" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Bajra" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Banana" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Cardamom" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Cashewnut" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Castor seed" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Coconut" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Coriander" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Cotton" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Dry chillies" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Garlic" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Gram" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Groundnut" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Horse gram" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Jowar" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Maize" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Moong" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Onion" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Potato" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Ragi" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Mustard" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Rice" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Sesamum" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Sugarcane" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Sunflower" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Sweet potato" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Tapioca" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Tobacco" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Turmeric" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    {
+        "plant":"Urad" , "state":"Tamil Nadu", "season":"Whole year"
+    },
+    
+    
+    
+    
+    
+    
+    
+    {
+        "plant":"Aracenut" , "state":"Kerala", "season":"Whole year"
+    },
+    {
+        "plant":"Banana" , "state":"Kerala", "season":"Whole year"
+    },
+    {
+        "plant":"Black pepper" , "state":"Kerala", "season":"Whole year"
+    },
+    {
+        "plant":"Cardamom" , "state":"Kerala", "season":"Whole year"
+    },
+    {
+        "plant":"Cashewnut" , "state":"Kerala", "season":"Whole year"
+    },
+    {
+        "plant":"Coconut" , "state":"Kerala", "season":"Whole year"
+    },
+    {
+        "plant":"Dry chillies" , "state":"Kerala", "season":"Whole year"
+    },
+    {
+        "plant":"Dry ginger" , "state":"Kerala", "season":"Whole year"
+    },
+    {
+        "plant":"Rice" , "state":"Kerala", "season":"Whole year"
+    },
+    {
+        "plant":"Sugarcane" , "state":"Kerala", "season":"Whole year"
+    },
+    {
+        "plant":"Sweet potato" , "state":"Kerala", "season":"Whole year"
+    },
+    {
+        "plant":"Tapioca" , "state":"Kerala", "season":"Whole year"
+    },
+    {
+        "plant":"Turmeric" , "state":"Kerala", "season":"Whole year"
+    },
+    
+    
+    
+    
+    
+    
+    {
+        "plant":"Arhar" , "state":"Karnataka", "season":"kharif"
+    },
+    {
+        "plant":"Bajra" , "state":"Karnataka", "season":"kharif"
+    },
+    {
+        "plant":"Castor seed" , "state":"Karnataka", "season":"kharif"
+    },
+    {
+        "plant":"Gram" , "state":"Karnataka", "season":"kharif"
+    },
+    {
+        "plant":"Groundnut" , "state":"Karnataka", "season":"kharif + rabi"
+    },
+    {
+        "plant":"Maize" , "state":"Karnataka", "season":"Whole year"
+    },
+    {
+        "plant":"Moong" , "state":"Karnataka", "season":"kharif"
+    },
+    {
+        "plant":"Niger seed" , "state":"Karnataka", "season":"kharif"
+    },
+    {
+        "plant":"Onion" , "state":"Karnataka", "season":"kharif + rabi"
+    },
+    {
+        "plant":"Potato" , "state":"Karnataka", "season":"Whole year"
+    },
+    {
+        "plant":"Ragi" , "state":"Karnataka", "season":"Whole year"
+    },
+    {
+        "plant":"Mustard" , "state":"Karnataka", "season":"rabi"
+    },
+    {
+        "plant":"Rice" , "state":"Karnataka", "season":"Whole year"
+    },
+    {
+        "plant":"Sesamum" , "state":"Karnataka", "season":"kharif"
+    },
+    {
+        "plant":"Small millets" , "state":"Karnataka", "season":"kharif"
+    },
+    {
+        "plant":"Sunflower" , "state":"Karnataka", "season":"Whole year"
+    },
+    {
+        "plant":"Urad" , "state":"Karnataka", "season":"kharif"
+    },
+    {
+        "plant":"Potato" , "state":"Delhi", "season":"Whole year"
+    },
+    {
+        "plant":"Ragi" , "state":"Delhi", "season":"Whole year"
+    },
+    {
+        "plant":"Mustard" , "state":"Delhi", "season":"rabi"
+    },
+    {
+        "plant":"Rice" , "state":"Delhi", "season":"Whole year"
+    },
+    {
+        "plant":"Sesamum" , "state":"Delhi", "season":"kharif"
+    },
+    {
+        "plant":"Small millets" , "state":"Delhi", "season":"kharif"
+    },
+    {
+        "plant":"Sunflower" , "state":"Delhi", "season":"Whole year"
+    },
+    {
+        "plant":"Urad" , "state":"Delhi", "season":"kharif"
+    }
+    
+]
